@@ -1,4 +1,4 @@
-package service;
+package com.okaplan.demo.service;
 
 import java.util.List;
 

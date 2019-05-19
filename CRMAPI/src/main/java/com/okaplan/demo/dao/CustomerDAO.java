@@ -1,4 +1,4 @@
-package dao;
+package com.okaplan.demo.dao;
 
 import java.util.List;
 
